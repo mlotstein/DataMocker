@@ -89,6 +89,10 @@ agent doesn't start on Java 8). Spark is a `provided` dependency, so you bring y
 
 Version-specific code lives in `core/src/main/scala-spark-{3.5,4}/` and `scala-{2.12,2.13}/`.
 
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
 ## Not done yet
 
 - `preserveNullability` option (keep the original nullability and fail on missing non-null fields).
